@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "fizzbuzz test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterAhn/fizzbuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterAhn/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/PeterAhn/fizzbuzz#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
